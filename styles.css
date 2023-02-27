@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.parent{
+	display:flex;
+	justify-content:center;
+}
+.child3{
+	border:1px green;
+	width:100px;
+	height:100px;
+	background:green;
+}
+.child1{
+	border:1px red;
+	width:100px;
+	height:100px;
+	background:red;
+}
+.child2{
+	border:1px blue;
+	width:100px;
+	height:100px;
+	background:blue;
+}
