@@ -3,6 +3,7 @@
 .parent{
 	display:flex;
 	justify-content:center;
+	flex-wrap:wrap;
 }
 .child3{
 	border:1px green;
